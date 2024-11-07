@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-This is a Tic-Tac-Toe game . Using the HTML , CSS and  JAVASCRIPT .
+#Simon says
+This is a Simon says game . Using the HTML , CSS and  JAVASCRIPT .
